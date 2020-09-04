@@ -43,7 +43,7 @@ $this->title = 'My Yii Application';
               <li class="nav-item">
                 <a class="nav-link" href="#">
                   <span data-feather="layers"></span>
-                  Integrations
+                  New Sale!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                 </a>
               </li>
             </ul>
